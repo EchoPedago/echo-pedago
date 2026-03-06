@@ -1,5 +1,5 @@
 ---
-title: "Dispositif n°1"
+title: "Projet"
 order: 1
 in_menu: true
 ---
