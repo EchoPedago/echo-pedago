@@ -3,6 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+# Echo-pédago
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+![Logo de Echo-pédago]({% link images/Logo Echo-pedago-fond_blanc.png %})
+
+Echo-pédago est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
