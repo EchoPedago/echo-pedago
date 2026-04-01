@@ -8,3 +8,6 @@ in_menu: true
 Echo-pédago est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
 
 ![Logo de Echo-pédago]({% link images/Logo Echo-pedago-fond_blanc.png %}) 
+
+ <p class="encart">Un incroyable encart !</p>
+<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a> 
