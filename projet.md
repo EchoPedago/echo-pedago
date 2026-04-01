@@ -16,3 +16,5 @@ Echo-pédago se déroule en plusieurs étapes:
 ▪ Etape 3: L’atelier; au cours duquel un groupe de participant·e·s est accompagné à faire des propositions d’amélioration de la proposition pédagogique à partir des retours du test (avec des outils de travail collaboratifs et intelligence collective) ; 
 
 ▪ Etape 4: Le bilan; qui permet à l’enseignant·e demandeur·se de faire un retour aux participant·e·s sur les évolutions mises en place. 
+
+![Texte décrivant l'image]({% link images/regles_v2.pdf %}) 
