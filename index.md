@@ -10,4 +10,4 @@ Echo-pédago est **un projet** qui a pour objet de soutenir l'amélioration des 
 ![Logo de Echo-pédago]({% link images/Logo Echo-pedago-fond_blanc.png %}) 
 
  <p class="encart">Un incroyable encart !</p>
-<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a> 
+<a href="https://github.com/EchoPedago/echo-pedago/blob/main/images/regles_v2.pdf">Regle du jeu de cartes IA - Orléans</a> 
