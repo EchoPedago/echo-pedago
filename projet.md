@@ -18,3 +18,5 @@ Echo-pédago se déroule en plusieurs étapes:
 ▪ Etape 4: Le bilan; qui permet à l’enseignant·e demandeur·se de faire un retour aux participant·e·s sur les évolutions mises en place. 
 
 ![Texte décrivant l'image]({% link images/regles_v2.pdf %}) 
+
+![Texte décrivant l'image]({schéma du dispositif en 4 étapes}) 
