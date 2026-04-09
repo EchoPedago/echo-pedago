@@ -3,9 +3,11 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Echo-pédago
+# Écho-pédago
 
-Echo-pédago est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
+Écho-pédago est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
+
+Ce site propose des ressources à destination des enseignant·e·s et conseiller·e·s pédagogiques.
 
 ![Logo de Echo-pédago]({% link images/Logo Echo-pedago-fond_blanc.png %}) 
 
