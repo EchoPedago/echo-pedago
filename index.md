@@ -13,3 +13,5 @@ Ce site propose des ressources à destination des enseignant·e·s et conseiller
 
  <p class="encart">Un incroyable encart !</p>
 <a href="https://github.com/EchoPedago/echo-pedago/blob/main/images/regles_v2.pdf" target="_blank" >Regle du jeu de cartes IA - Orléans</a> 
+
+![Texte décrivant l'image]({% link images/30oser.png %}) 
