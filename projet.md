@@ -20,4 +20,5 @@ Il s’inspire de méthodes collaboratives comme le hackathon (utilisé dans le 
 ![Texte décrivant l'image]({% link images/Dispositif Echo-pedago_all.png %})
 
 Vous souhaitez en savoir plus sur le dispositif ? Organiser une session en tant que facilitateur·ice ? 
+
 Vous pouvez nous contacter : mailto:echopedago@mailo.com 
