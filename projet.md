@@ -19,3 +19,5 @@ Il s’inspire de méthodes collaboratives comme le hackathon (utilisé dans le 
 
 
 ![Texte décrivant l'image]({schéma du dispositif en 4 étapes}) 
+
+![Texte décrivant l'image]({% link images/collaboration.jpg %}) 
