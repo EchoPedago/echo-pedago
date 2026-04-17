@@ -3,7 +3,7 @@ title: "Qui sommes-nous ?"
 order: 1
 in_menu: true
 ---
-Le projet Écho-pédago a été créé par 4 enseignantes et ingénieures pédagogiques :  
+Le projet **Écho-pédago** a été créé par 4 enseignantes et ingénieures pédagogiques :  
 
 Adélie Colletta, ingénieure pédagogique à amàco, Villefontaine
 
