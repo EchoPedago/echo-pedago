@@ -9,3 +9,9 @@ Une envie de tester le dispositif dans votre établissement ?
 
 
 Vous pouvez nous contacter à <a href="mailto:echopedago@mailo.com ">echopedago@mailo.com</a> 
+
+
+Envie de suivre les actualités d'<span style="color:#f8ab00">**Écho-pédago**</span> ?
+
+Rendez-vous sur notre page LinkedIn
+https://www.linkedin.com/company/echo-pedago 
