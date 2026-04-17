@@ -7,7 +7,6 @@ in_menu: true
 
 <span style="color:#f8ab00">**Écho-pédago**</span> est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
 
-Ce site propose des ressources à destination des enseignant·e·s et conseiller·e·s pédagogiques.
+Ce site propose des ressources en accès libre à destination des enseignant·e·s et conseiller·e·s pédagogiques.
 
-
- <p class="encart">Bienvenue !</p> 
+Bonne visite ! 
