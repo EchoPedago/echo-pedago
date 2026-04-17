@@ -13,5 +13,4 @@ Vous pouvez nous contacter à <a href="mailto:echopedago@mailo.com ">echopedago@
 
 Envie de suivre les actualités d'<span style="color:#f8ab00">**Écho-pédago**</span> ?
 
-Rendez-vous sur notre page LinkedIn
-https://www.linkedin.com/company/echo-pedago 
+<a href="https://www.linkedin.com/company/echo-pedago " target="_blank" >Rendez-vous sur notre page LinkedIn</a> 
