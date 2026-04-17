@@ -7,4 +7,6 @@ in_menu: true
 
 Vous pouvez trouvez sur cette page l'ensemble des supports téléchargeables et des guides de jeu pour imprimer vos cartes, et vous lancer dans l'aventure !
 
-<img src="images/30oser.png" alt="Logo de Echo-pédago" width="300" height="420"> 
+<img src="images/30oser.png" alt="Visuel de carte 30 minutes pour oser" width="300" height="420"> 
+
+<a href="https://github.com/EchoPedago/echo-pedago/blob/main/images/regles_v2.pdf" target="_blank" >Regle du jeu de cartes IA - Orléans</a> 
