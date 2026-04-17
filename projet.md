@@ -3,13 +3,13 @@ title: "Projet"
 order: 2
 in_menu: true
 ---
-**Écho-pédago** est un dispositif visant à accompagner des enseignant·e·s pour leur permettre d’améliorer leurs pratiques, d’échanger avec des pairs, et de diffuser leurs propositions pédagogiques.
+<span style="color:#f8ab00">**Écho-pédago**</span> est un dispositif visant à accompagner des enseignant·e·s pour leur permettre d’améliorer leurs pratiques, d’échanger avec des pairs, et de diffuser leurs propositions pédagogiques.
 
 Il s’inspire de méthodes collaboratives comme le hackathon (utilisé dans le domaine de la programmation), et permet l’implication de la communauté pédagogique au sens large (enseignant·e·s, étudiant·e·s, ingénieur·e·s pédagogiques...) dans l’amélioration des pratiques pédagogiques.  
 
 <br>
 
-**Écho-pédago** se déroule en plusieurs étapes:  
+<span style="color:#f8ab00">**Écho-pédago**</span> se déroule en plusieurs étapes:  
 
 ▪ Étape 1: **Le brief**; qui consiste en un temps d’échange entre l’enseignant·e demandeur·se et le/la facilitateur·ice, pour identifier la problématique et mettre en place un test de la proposition pédagogique à améliorer ; 
 
