@@ -13,6 +13,8 @@ Le projet <span style="color:#f8ab00">**Écho-pédago**</span>  a été créé p
 
 **Cathel Zitzmann**, enseignante chercheurse à l'EPF Ecole d’inénieur.e.s, Montpellier
 
+<br>
+
 Nous avons imaginé <span style="color:#f8ab00">**Écho-pédago**</span> en mars 2023 à l’occasion des journées d’études de l’AIPU France. 
 
 Ce projet a fait l'objet de plusieurs communications : 
