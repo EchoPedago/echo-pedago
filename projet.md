@@ -21,4 +21,5 @@ Il s’inspire de méthodes collaboratives comme le hackathon (utilisé dans le 
 
 Vous souhaitez en savoir plus sur le dispositif ? Organiser une session en tant que facilitateur·ice ? 
 
-Vous pouvez nous contacter : mailto:echopedago@mailo.com 
+
+<a href="mailto:echopedago@mailo.com ">Contactez-nous !</a> 
