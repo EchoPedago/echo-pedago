@@ -7,6 +7,7 @@ in_menu: true
 
 Il s’inspire de méthodes collaboratives comme le hackathon (utilisé dans le domaine de la programmation), et permet l’implication de la communauté pédagogique au sens large (enseignant·e·s, étudiant·e·s, ingénieur·e·s pédagogiques...) dans l’amélioration des pratiques pédagogiques.  
 
+<br>
 
 **Écho-pédago** se déroule en plusieurs étapes:  
 
@@ -19,8 +20,5 @@ Il s’inspire de méthodes collaboratives comme le hackathon (utilisé dans le 
 ▪ Étape 4: **Le bilan**; qui permet à l’enseignant·e demandeur·se de faire un retour aux participant·e·s sur les évolutions mises en place. 
 
 ![Texte décrivant l'image]({% link images/Dispositif Echo-pedago_all.png %})
-
-
- <p class="encart">Vous souhaitez en savoir plus sur le dispositif ? Organiser une session en tant que facilitateur·ice ? <a href="mailto:echopedago@mailo.com ">Contactez-nous !</a> </p> 
 
 Vous souhaitez en savoir plus sur le dispositif ? Organiser une session en tant que facilitateur·ice ? <a href="mailto:echopedago@mailo.com ">Contactez-nous !</a> 
