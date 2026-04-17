@@ -5,8 +5,6 @@ in_menu: true
 ---
 # Écho-pédago
 
-![Logo de Echo-pédago]({% link images/Logo Echo-pedago-fond_blanc.png %}) 
-
 <img src="images/Logo Echo-pedago-fond_blanc.png" alt="Logo de Echo-pédago" width="300" height="150">
 
 Écho-pédago est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
