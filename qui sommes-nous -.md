@@ -17,4 +17,4 @@ Nous avons imaginé <span style="color:#f8ab00">**Écho-pédago**</span> en mars
 
 Ce projet a fait l'objet de plusieurs communications : 
 
-https://hal.sorbonne-universite.fr/ENGEES/hal-05572134v1 
+<a href="https://hal.sorbonne-universite.fr/ENGEES/hal-05572134v1 " target="_blank" >Echo-pédago: accompagner, collaborer, améliorer et partager, Communication au Congrès de l'AIPU international 2024, Sherbrooke</a> 
