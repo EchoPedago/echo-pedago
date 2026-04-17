@@ -10,5 +10,4 @@ in_menu: true
 Ce site propose des ressources à destination des enseignant·e·s et conseiller·e·s pédagogiques.
 
 
- <p class="encart">Un incroyable encart !</p>
-<a href="https://github.com/EchoPedago/echo-pedago/blob/main/images/regles_v2.pdf" target="_blank" >Regle du jeu de cartes IA - Orléans</a> 
+ <p class="encart">Bienvenue !</p> 
