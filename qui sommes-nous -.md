@@ -1,6 +1,5 @@
 ---
 title: "Qui sommes-nous ?"
-order: 5
+order: 1
 in_menu: true
 ---
- 

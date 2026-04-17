@@ -1,6 +1,6 @@
 ---
 title: "Projet"
-order: 1
+order: 2
 in_menu: true
 ---
 Écho-pédago est un dispositif visant à accompagner des enseignant·e·s pour leur permettre d’améliorer leurs pratiques, d’échanger avec des pairs, et de diffuser leurs propositions pédagogiques.
