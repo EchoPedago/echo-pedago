@@ -3,7 +3,7 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-Une question sur Écho-pédago ?
+Une question sur <span style="color:#f8ab00">**Écho-pédago**</span> ?
 
 Une envie de tester le dispositif dans votre établissement ?
 
