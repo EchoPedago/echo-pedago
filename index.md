@@ -7,7 +7,7 @@ in_menu: true
 
 ![Logo de Echo-pédago]({% link images/Logo Echo-pedago-fond_blanc.png %}) 
 
-<img src="https://github.com/EchoPedago/echo-pedago/blob/9274b820e3dd22d348db2ededdb9f0b9d29165d9/images/Logo%20Echo-pedago-fond_blanc.png" alt="Logo de Echo-pédago" width="500" height="600">
+<img src="images/Logo Echo-pedago-fond_blanc.png" alt="Logo de Echo-pédago" width="500" height="600">
 
 Écho-pédago est **un projet** qui a pour objet de soutenir l'amélioration des pratiques pédagogiques. 
 
